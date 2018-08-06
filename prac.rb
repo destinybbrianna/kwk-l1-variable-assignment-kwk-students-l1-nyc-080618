@@ -6,4 +6,5 @@ puts  "my name is" " " + first_name + " " + last_name
 puts "My first name is #{first_name} and my last name is #{last_name}"
 age = 17
 #string interpolation
-puts "my first name is first_name and i am" #{age.to_s}
+puts "my first name is first_name and i am #{age.to_s}"
+
